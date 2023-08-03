@@ -33,10 +33,10 @@ To use DigiPath on your Android device, follow these steps:
    ![Screenshot (66)](https://github.com/SumanBaghel/DigiPath/assets/89180252/cda95884-8da4-4419-ac0c-204bf61cfc5c)
 
 2. Capture an image using the camera or choose one from the gallery and Initiate the cell segmentation process.
-   <img src="https://github.com/SumanBaghel/DigiPath/blob/main/assets/89180252/18c7907e-c16b-4b61-a2ed-c2f90d22d7de.png" alt="Image" width="300px" />
-   
+   ![1](https://github.com/SumanBaghel/DigiPath/assets/89180252/6c9258f0-df0b-41b7-affb-98c486dd2e9e=300x)
+
 4. View the segmentation results, where cells are categorized into three classes: tumor, non-tumor, and background.
-   ![1 1](https://github.com/SumanBaghel/DigiPath/assets/89180252/03a61da6-3419-4a32-a977-51875d49fda1)
+   ![1 1](https://github.com/SumanBaghel/DigiPath/assets/89180252/03a61da6-3419-4a32-a977-51875d49fda1=300x)
 
 ## Features
 
