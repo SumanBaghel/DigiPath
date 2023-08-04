@@ -1,6 +1,6 @@
 # DigiPath - Digital Pathology Cell Segmentation Android App
 
-DigiPath is an Android Studio developed app that leverages TensorFlow Lite (tf.lite) to perform cell segmentation for Digital Pathology applications. The app uses the Ki-67 patches dataset and employs the UNet algorithm to accurately identify three classes of cells: tumor, non-tumor, and background. This project was developed during an internship at NETR AI PVT. LTD., in collaboration with the Indian Institute of Technology (IIT), Bhilai.
+DigiPath is an Android Studio developed app that leverages TensorFlow Lite (tf.lite) to perform cell segmentation for Digital Pathology applications. The app uses the Ki-67 patches dataset and employs the UNet algorithm to accurately identify three classes of cells: tumor, non-tumor, and background. This project was developed during my internship at NETR AI PVT. LTD., Indian Institute of Technology (IIT), Bhilai.
 
 ## Table of Contents
 
